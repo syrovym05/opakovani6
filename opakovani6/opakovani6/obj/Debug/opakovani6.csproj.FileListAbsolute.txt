@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\bin\Debug\opakovani6.exe.config
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\bin\Debug\opakovani6.exe
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\bin\Debug\opakovani6.pdb
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.Form1.resources
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.exe
+C:\Users\marsy\Source\Repos\opakovani6\opakovani6\obj\Debug\opakovani6.pdb
